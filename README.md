@@ -3,55 +3,88 @@ This dataset contains transactional sales data used to analyze business performa
 
 # 📊 Interactive Sales Analytics Dashboard
 
-## 🌐 Live Demo
-👉 [Click here to view the Interactive Sales Dashboard](https://sales-data-rho.vercel.app/)
+🔗 **Live Demo:**  
+👉 https://sales-data-rho.vercel.app/
+
+<p align="center">
+  <img src="dashboard-preview.png" width="900"/>
+</p>
 
 
 ## 🚀 Project Overview
-The **Interactive Sales Analytics Dashboard** is a data visualization project designed to analyze business sales performance and generate actionable insights. This dashboard enables users to monitor key metrics such as revenue, profit, regional performance, and product trends through interactive charts.
+The **Interactive Sales Analytics Dashboard** is a business intelligence project built to analyze sales performance and generate actionable insights through interactive visualizations.
 
-The project demonstrates end-to-end data analysis — from data preparation to visualization — while focusing on usability and business decision support.
+This project demonstrates an end-to-end data workflow — from data cleaning and preparation to dashboard creation and cloud deployment — similar to real-world data analyst responsibilities.
 
-## 🎯 Objectives
-- Analyze sales data to identify high-performing regions and products  
-- Track revenue and profitability trends  
-- Build an interactive dashboard for quick business insights  
-- Present complex data in a simple, visual format  
+
+## 🎯 Business Objectives
+- Identify top-performing regions and product categories  
+- Monitor revenue and profit trends  
+- Enable faster, data-driven decision-making  
+- Present complex datasets in an intuitive visual format  
 
 
 ## 🧾 Dataset Description
-The dataset contains transactional sales records that support business performance analysis.
+The dataset consists of transactional sales records used to evaluate overall business performance.
 
-### **Key Attributes:**
-- Sales Amount  
-- Profit  
-- Customer Segments  
-- Product Categories & Sub-Categories  
-- Geographic Regions  
-- Order Dates  
+### **Key Attributes**
+- **Sales Amount** – Total revenue generated  
+- **Profit** – Business profitability metrics  
+- **Customer Segments** – Consumer classification  
+- **Product Categories & Sub-Categories** – Product-level insights  
+- **Geographic Regions** – Regional performance comparison  
+- **Order Dates** – Time-series trend analysis  
 
-This dataset was used for cleaning, transformation, and visualization to simulate real-world business intelligence workflows.
+The dataset was cleaned and structured to ensure accurate and meaningful visualizations.
 
 
 ## 🛠️ Tech Stack
-- **Excel** – Data cleaning and preparation  
-- **HTML** – Dashboard structure  
-- **JavaScript** – Logic and interactivity  
-- **Plotly** – Dynamic data visualizations  
-- **Vercel** – Deployment and hosting  
+- **Excel** → Data cleaning & preparation  
+- **HTML** → Dashboard structure  
+- **JavaScript** → Interactivity  
+- **Plotly.js** → Dynamic charts  
+- **Vercel** → Cloud deployment  
 
 
-## ✨ Features
+## ✨ Key Features
 ✅ Interactive charts for deeper analysis  
 ✅ Region-wise sales comparison  
-✅ Profitability insights  
-✅ Category performance tracking  
-✅ User-friendly dashboard layout  
-✅ Fully deployed and accessible online  
+✅ Profitability tracking  
+✅ Category performance insights  
+✅ Time-based sales trends  
+✅ Fully deployed live dashboard  
+✅ Clean and user-friendly layout  
 
 
-## 📷 Dashboard Preview
-*(Add a screenshot here for better recruiter engagement)*
+## 📈 Project Impact
+This dashboard enables stakeholders to quickly evaluate business performance and uncover trends that support strategic planning.
 
-Example:
+**Skills Demonstrated:**
+- Data Analysis  
+- Data Visualization  
+- Dashboard Development  
+- Business Insight Generation  
+- Problem Solving  
+- Cloud Deployment  
+
+
+## 💡 How to Use
+1. Click the **Live Demo** link above.  
+2. Explore the interactive charts.  
+3. Analyze trends across regions, categories, and profit metrics.
+
+
+## 🔮 Future Enhancements
+- Add advanced filtering options  
+- Improve UI for enhanced user experience  
+- Integrate real-time data sources  
+- Implement predictive sales analytics  
+- Optimize dashboard performance  
+
+
+## 👩‍💻 Author
+**Vaishnavi Gowda**
+
+If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
+
 
