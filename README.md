@@ -3,48 +3,45 @@ This dataset contains transactional sales data used to analyze business performa
 
 # 📊 Interactive Sales Analytics Dashboard
 
-🔗 **Live Demo:**  
+🚀 **Explore the Live Dashboard:**  
 👉 https://sales-data-rho.vercel.app/
-
-<p align="center">
-  <img src="dashboard-previeww.png" width="900"/>
-</p>
 
 
 ## 🚀 Project Overview
-The **Interactive Sales Analytics Dashboard** is a business intelligence project built to analyze sales performance and generate actionable insights through interactive visualizations.
+The **Interactive Sales Analytics Dashboard** is a business intelligence project developed to analyze sales data and generate actionable insights through dynamic visualizations.
 
-This project demonstrates an end-to-end data workflow — from data cleaning and preparation to dashboard creation and cloud deployment — similar to real-world data analyst responsibilities.
+This project showcases an end-to-end workflow including data cleaning, analysis, dashboard creation, and cloud deployment — reflecting real-world data analyst responsibilities.
 
 
 ## 🎯 Business Objectives
 - Identify top-performing regions and product categories  
 - Monitor revenue and profit trends  
 - Enable faster, data-driven decision-making  
-- Present complex datasets in an intuitive visual format  
+- Present complex datasets in a clear visual format  
 
 
 ## 🧾 Dataset Description
-The dataset consists of transactional sales records used to evaluate overall business performance.
+The dataset contains transactional sales records used to evaluate overall business performance.
 
 ### **Key Attributes**
 - **Sales Amount** – Total revenue generated  
-- **Profit** – Business profitability metrics  
+- **Profit** – Profitability metrics  
 - **Customer Segments** – Consumer classification  
 - **Product Categories & Sub-Categories** – Product-level insights  
 - **Geographic Regions** – Regional performance comparison  
-- **Order Dates** – Time-series trend analysis  
+- **Order Dates** – Time-based trend analysis  
 
-The dataset was cleaned and structured to ensure accurate and meaningful visualizations.
+The data was cleaned and structured to ensure accurate and meaningful visualizations.
 
 
 ## 🛠️ Tech Stack
 - **Excel** → Data cleaning & preparation  
 - **HTML** → Dashboard structure  
 - **JavaScript** → Interactivity  
-- **Plotly.js** → Dynamic charts  
-- **Vercel** → Cloud deployment  
+- **Plotly.js** → Interactive charts  
+- **Vercel** → Deployment & hosting  
 
+---
 
 ## ✨ Key Features
 ✅ Interactive charts for deeper analysis  
@@ -53,13 +50,10 @@ The dataset was cleaned and structured to ensure accurate and meaningful visuali
 ✅ Category performance insights  
 ✅ Time-based sales trends  
 ✅ Fully deployed live dashboard  
-✅ Clean and user-friendly layout  
+✅ Clean and intuitive UI  
 
 
-## 📈 Project Impact
-This dashboard enables stakeholders to quickly evaluate business performance and uncover trends that support strategic planning.
-
-**Skills Demonstrated:**
+## 📈 Skills Demonstrated
 - Data Analysis  
 - Data Visualization  
 - Dashboard Development  
@@ -69,22 +63,30 @@ This dashboard enables stakeholders to quickly evaluate business performance and
 
 
 ## 💡 How to Use
-1. Click the **Live Demo** link above.  
-2. Explore the interactive charts.  
+1. Click the **Live Dashboard** link above.  
+2. Explore the interactive visualizations.  
 3. Analyze trends across regions, categories, and profit metrics.
 
+---
 
 ## 🔮 Future Enhancements
 - Add advanced filtering options  
 - Improve UI for enhanced user experience  
 - Integrate real-time data sources  
 - Implement predictive sales analytics  
-- Optimize dashboard performance  
 
 
 ## 👩‍💻 Author
 **Vaishnavi Gowda**
 
 If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
+
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard-preview.png" width="900"/>
+</p>
+
 
 
