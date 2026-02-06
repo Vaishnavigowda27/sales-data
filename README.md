@@ -7,7 +7,7 @@ This dataset contains transactional sales data used to analyze business performa
 👉 https://sales-data-rho.vercel.app/
 
 <p align="center">
-  <img src="dashboard-preview.png" width="900"/>
+  <img src="dashboard-previeww.png" width="900"/>
 </p>
 
 
