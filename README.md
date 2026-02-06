@@ -85,7 +85,7 @@ If you found this project useful or interesting, consider giving it a ⭐ on Git
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard-preview.png" width="900"/>
+  <img src="dashboard-previeww.png" width="900"/>
 </p>
 
 
